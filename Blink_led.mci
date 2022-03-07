@@ -1,0 +1,20 @@
+[Project]
+Filename=C:\Users\haroldde\Documents\PIC_basic_2021\Blink_LED\Blink_led.bas
+[Environment]
+CaretX=42
+CaretY=34
+Topline=8
+[Version]
+Enable=1
+Rollover=255
+Major=0
+Minor=0
+Release=0
+Build=2
+[Results]
+Visible=1
+Height=117
+View=2
+[Status]
+Message=Success : 70 program words used, 4 variable bytes used
+Image=0
